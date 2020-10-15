@@ -9,5 +9,5 @@
 ## 致谢
 创意计算最初的[简体中文版](http://cccgchinese.mystrikingly.com/)由 LEAD 创意活动中国区组委会 Scratch 专业委员会的成员翻译，其中包括王旭卿团队（陈迁晓，赵罗依），童毓舟及团队（陶烨）和魏睦，该版本使用 Scratch 2.0 作为编程工具。CodeLab 联合[英荔](https://longan.link/)课程团队在此基础上将课程中的素材更新到了 Scratch 3.0，部分文案也做了修订。
 
-## Licence
+## License
 该课程使用 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。
