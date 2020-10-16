@@ -1,7 +1,7 @@
 # 创意计算
 [创意计算](http://scratched.gse.harvard.edu/guide/)（Creative Computing）课程是哈佛大学教育研究生院 ScratchEd 团队围绕计算思维设计的编程入门课程，以 Scratch 作为编程工具。
 
-[CodeLab](https://www.codelab.club/) 在暑期使用该课程举办了公益编程活动，基于授课实践，对课程资料进行了整理，更新了教师讲义和学生讲义，增加了授课 PPT、程序，并且总结了[授课经验](https://www.codelab.club/blog/2020/10/15/创意计算授课实践与总结)，方便大家教学和参考。
+[CodeLab](https://www.codelab.club/) 在暑期使用该课程举办了公益编程活动，基于授课实践，对课程资料进行了整理，更新了教师讲义和学生讲义，增加了授课 PPT、程序，并且总结了[授课经验](https://www.codelab.club/blog/2020/10/16/创意计算授课实践与总结)，方便大家教学和参考。
 
 ## 如何使用
 课程资源中包含教师讲义、学生讲义、授课 PPT 和程序，具体使用方法请参考课程资源中的“**课程使用说明**”文档。
